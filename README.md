@@ -1,4 +1,5 @@
 🛒 Sistema de Vendas em C
+
 📌 Sobre o projeto
 Este projeto consiste em um sistema de vendas desenvolvido em linguagem C, com foco no gerenciamento de produtos e controle de vendas.
 
