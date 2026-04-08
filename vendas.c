@@ -5,7 +5,7 @@
 
 //Struct que representa um produto do sistema//
 typedef struct {
-    nt codigo;        //Código identificador do produto//
+    int codigo;        //Código identificador do produto//
     char nome[50];     //Nome do produto//
     float preco;       //Preço do produto//
     int estoque;       //Quantidade disponível no estoque//
