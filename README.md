@@ -41,7 +41,7 @@ cd sistema_vendas_C
 ### 3. Compilar o programa
 
 ```bash
-gcc main.c -o sistema
+gcc vendas.c -o sistema
 ```
 
 ### 4. Executar
