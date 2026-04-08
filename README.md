@@ -28,10 +28,10 @@ Além disso, os dados são persistidos em arquivo, garantindo que as informaçõ
 ## ▶️ Como executar o projeto
 
 # Clonar o repositório
-git clone https://github.com/lucasproencab98/learningc
+git clone https://github.com/lucasproencab98/sistema_vendas_C
 
 # Acessar a pasta do projeto
-cd learningc
+cd sistema_vendas_C
 
 # Compilar o programa
 gcc main.c -o sistema 
