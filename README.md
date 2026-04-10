@@ -21,6 +21,7 @@ A aplicação permite realizar operações básicas de um sistema comercial, inc
 * Cadastro de produtos
 * Exclusão de produtos
 * Realização de vendas
+* Geração de recibos (persistência de dados)
 
 ---
 
@@ -54,8 +55,6 @@ gcc vendas.c -o sistema
 
 ## 💡 Melhorias futuras
 
-* Implementar persistência de dados
-* Gerar recibo de vendas
 * Implementar interface gráfica
 * Adicionar controle de estoque
 * Criar sistema de login de usuários
